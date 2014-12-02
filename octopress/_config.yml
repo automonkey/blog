@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://blog.benyon.io
+title: Blog
+subtitle: A dumping ground for my thoughts.
+author: Will Benyon
 simple_search: https://www.google.com/search
 description:
 
